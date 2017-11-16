@@ -1,2 +1,2 @@
 from .joke import joke
-from .radius import radius
+from .pythagorean import pythagorean
