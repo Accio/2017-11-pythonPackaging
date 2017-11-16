@@ -4,4 +4,4 @@ import myPyPkg
 
 print(myPyPkg.joke())
 
-print(myPyPkg.radius(3,4))
+print(myPyPkg.pythagorean(3,4))
