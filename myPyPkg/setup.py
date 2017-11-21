@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='myPyPkg',
-      version='0.1',
+      version='0.1.1',
       description='A minimalistic python package',
       url='http://github.com/Accio/2017-11-pythonPackaging',
       author='Jitao David Zhang',
